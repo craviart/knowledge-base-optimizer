@@ -1,0 +1,4 @@
+interface:
+  display_name: "Knowledge Base Optimizer"
+  short_description: "Maintain and optimize knowledge bases"
+  default_prompt: "Use $knowledge-base-optimizer to audit and maintain this knowledge base for zero-loss organization, startup load, and token reduction opportunities."
