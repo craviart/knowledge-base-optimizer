@@ -16,10 +16,6 @@ npx skills add https://github.com/craviart/knowledge-base-optimizer
 - **`scripts/audit_knowledge_base.py`** — a read-only audit helper that reports tree shape, Markdown word/token counts, likely loader files, largest files, duplicate names, broken relative links, and path risks.
 - **`references/`** — supporting guides: target file-tree model, audit rubric, zero-loss migration, performance reporting, and the maintenance loop.
 
-## Tags
-
-knowledge base, context engineering, agent memory, token optimization, file organization, source of truth, markdown, developer tools
-
 ## License
 
 [MIT](LICENSE) © Camille Raviart
